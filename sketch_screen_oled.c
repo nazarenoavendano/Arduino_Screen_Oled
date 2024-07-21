@@ -31,7 +31,7 @@ void setup() {
   display.println(F("Linea 2: Naza =)"));
 
   display.setCursor(0, 20);
-  display.println(F("Linea 3: Screen OLED"));
+  display.println(F("Linea 3: Linea 3"));
 
   display.setCursor(0, 30);
   display.println(F("Linea 4: Linea 4"));
